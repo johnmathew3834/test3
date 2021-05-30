@@ -1,0 +1,13 @@
+pom Depandancy
+     https://www.youtube.com/watch?v=XVAyBRtHAF8
+     
+Spring boot main class
+	https://www.youtube.com/watch?v=DAesbxUgKHo
+	
+Springboot auto configuration
+	https://www.javadevjournal.com/spring-boot/how-spring-boot-auto-configuration-works/
+	https://www.youtube.com/watch?v=FQO2l3i5fRg // Enable autoconfiguration by adding @EnableAutoconfiguration Or @SpringBootApplication
+	
+	
+Springboot in memoery database
+	https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/learn/lecture/15952544#overview

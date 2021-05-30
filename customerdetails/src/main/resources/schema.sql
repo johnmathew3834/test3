@@ -1,0 +1,2 @@
+CREATE TABLE exchange_value(id int,currency_from varchar(20),currency_to varchar(20),conversion_multiple int);
+CREATE TABLE customer(id int, first_name varchar(50), last_name varchar(50), addresses varchar(50), pincode int);
